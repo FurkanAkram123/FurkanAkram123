@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FurkanAkram123
-- 👀 I’m interested in software development in C/C++ and Python
-- 🌱 I’m currently learning 
+- 👀 I’m interested in software development in C/C++ and Python.
+- 🌱 I’m currently enhancing my skills as a Mechatronics engineer.
 - 💞️ I’m looking to collaborate on innovative robotic projects that are either open source or not. 
 - 📫 How to reach me - Linkedln
 
