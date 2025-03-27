@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FurkanAkram123
-- 👀 I’m interested in software development in C/C++ and Python.
-- 🌱 I’m currently enhancing my skills as a Mechatronics engineer.
-- 💞️ I’m looking to collaborate on innovative robotic projects that are either open source or not. 
+- 👋 Hi, I’m Furkan Akram
+- 👀 I’m interested in Data and cloud engineer
+- 🌱 I’m currently enhancing my skills as a Data engineer.
+- 💞️ I’m looking to collaborate on innovative vision and cloud oriented projects that are either open source or not. 
 - 📫 How to reach me - Linkedln
 
 <!---
